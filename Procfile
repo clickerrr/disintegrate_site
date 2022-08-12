@@ -1,0 +1,1 @@
+web: gunicorn --chdir dis_site run:app
